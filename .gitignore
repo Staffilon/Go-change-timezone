@@ -1,0 +1,9 @@
+# Name of the app
+/timezone-app
+
+# Dependency directories
+/vendor/
+
+# OS files
+.DS_Store
+Thumbs.db
